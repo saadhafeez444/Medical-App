@@ -74,7 +74,7 @@ class _HomeState extends State<Home> {
               ),
 
               SizedBox(height: 30.0),
-              Container(
+              SizedBox(
                 height: 50,
 
                 child: ListView(
@@ -90,7 +90,7 @@ class _HomeState extends State<Home> {
                               herbal = false;
                               setState(() {});
                             },
-                            child: Container(
+                            child: SizedBox(
                               height: 50,
                               child: Center(
                                 child: Text(
@@ -111,7 +111,7 @@ class _HomeState extends State<Home> {
                               herbal = false;
                               setState(() {});
                             },
-                            child: Container(
+                            child: SizedBox(
                               height: 50,
                               child: Center(
                                 child: Text(
@@ -132,7 +132,7 @@ class _HomeState extends State<Home> {
                               herbal = false;
                               setState(() {});
                             },
-                            child: Container(
+                            child: SizedBox(
                               height: 50,
                               child: Center(
                                 child: Text(
@@ -153,7 +153,7 @@ class _HomeState extends State<Home> {
                               herbal = true;
                               setState(() {});
                             },
-                            child: Container(
+                            child: SizedBox(
                               height: 50,
                               child: Center(
                                 child: Text(
@@ -197,7 +197,7 @@ class _HomeState extends State<Home> {
                           height: 300,
                         ),
                       ),
-                      Container(
+                      SizedBox(
                         height: 300,
                         child: Column(
                           mainAxisAlignment: MainAxisAlignment.end,
@@ -270,7 +270,7 @@ class _HomeState extends State<Home> {
                         height: 300,
                       ),
                     ),
-                    Container(
+                    SizedBox(
                       height: 300,
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.end,
@@ -342,7 +342,7 @@ class _HomeState extends State<Home> {
                         height: 300,
                       ),
                     ),
-                    Container(
+                    SizedBox(
                       height: 300,
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.end,
@@ -414,7 +414,7 @@ class _HomeState extends State<Home> {
                         height: 300,
                       ),
                     ),
-                    Container(
+                    SizedBox(
                       height: 300,
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.end,
@@ -486,7 +486,7 @@ class _HomeState extends State<Home> {
                         height: 300,
                       ),
                     ),
-                    Container(
+                    SizedBox(
                       height: 300,
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.end,
@@ -558,7 +558,7 @@ class _HomeState extends State<Home> {
                         height: 300,
                       ),
                     ),
-                    Container(
+                    SizedBox(
                       height: 300,
                       child: Column(
                         mainAxisAlignment: MainAxisAlignment.end,
