@@ -1,16 +1,44 @@
-# pharmacy_app
+# 💊 MedCare — Medicine Management App
 
-A new Flutter project.
+## 📱 About The Project
 
-## Getting Started
+MedCare is a simple and user-friendly Flutter application designed to help users manage medicines efficiently. The app allows users to add, update, and remove medicines while keeping records organized in a clean and responsive interface.
 
-This project is a starting point for a Flutter application.
+Firebase Authentication is integrated to provide secure user login and account management, ensuring safe and personalized access to the application.
 
-A few resources to get you started if this is your first Flutter project:
+Built with Flutter, the app delivers a smooth cross-platform experience with fast performance and modern UI design.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 🌟 Features
+
+- 💊 Add Medicines
+- ✏️ Update Medicine Records
+- ❌ Remove Medicines
+- 🔐 Firebase Authentication
+- 📱 Clean & Responsive UI
+- ⚡ Fast & Smooth Performance
+
+---
+
+# 🛠️ Tech Stack
+
+| Technology | Usage |
+|------------|-------|
+| Flutter | Frontend Development |
+| Firebase | Authentication |
+| Dart | Programming Language |
+| VS Code | Development Environment |
+
+---
+
+# 📱 Application Screenshots
+
+<img src="med1.jpg" width="250">
+<img src="med2.jpg" width="250">
+
+---
+
+# ⭐ Support
+
+If you like this project, don't forget to star the repository ⭐
